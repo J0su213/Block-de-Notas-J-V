@@ -1,14 +1,14 @@
 {
     "name": "BLOCK-NOTAS J&V",
     "short": "NOTAS",
-    "start:_url": "/",
-    "display:" : "standalone",
+    "start_url": "/",
+    "display": "standalone",
     "background_color": "#ffffff",
-    "lang":"es",
-    "scope":"/",
-    "description":"Aplicación para tomar notas",
-    "theme_color":"#ffffff",
-    "icons":[
+    "lang": "es",
+    "scope": "/",
+    "description": "Aplicación para tomar notas",
+    "theme_color": "#ffffff",
+    "icons": [
         {
             "src": "256x256.png",
             "sizes": "256x256",
@@ -21,3 +21,4 @@
         }
     ]
 }
+
